@@ -9,6 +9,6 @@ Puede que en el futuro cambie de idea.
 
 <h1> Descripcion del proyecto </h1>
 
-<p> Básicamente, se tendrá una Raspberry Pi con acceso a WiFi, y dicha tarjeta obtendrá datos de temperatura de algunos sensores. Estos datos puede venir a través de conexion serial por USB hacia un Arduino, o directamente a través de los GPIO </p>
+<p> Básicamente, se tendrá una Raspberry Pi con acceso a WiFi, y dicha tarjeta obtendrá datos de temperatura de algunos sensores. Estos datos puede venir a través de conexion serial por USB hacia un Arduino, o directamente a través de los GPIO. Idealmente, la RasPI podrá hacer POST hacia un servidor, el cual debiese tener alguna forma de mantener la integridad de los datos </p>
 
 
